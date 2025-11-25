@@ -1,5 +1,5 @@
 # Jellio+
-[![Release](https://img.shields.io/github/v/release/InfiniteAvenger/jellio-plus)](https://github.com/InfiniteAvenger/jellio-plus/releases)
+[![Release](https://img.shields.io/github/v/release/y0m0/jellio-plus)](https://github.com/y0m0/jellio-plus/releases)
 
 Stream your Jellyfin library directly in Stremio with seamless integration
 
@@ -40,7 +40,7 @@ Enable the optional Jellyseer functionality to be able to directly request media
 NOTICE: It is recommended to have both your Jellyfin and Jellyseer instances accessilbe over HTTPS by using a Cloudflare tunnel. This is the only way I have tested it so far.
 
 1. Go Open Jellyfin Dashboard > Plugins > Manage Repositories
-2. Click "New Repository" and add "Jellio" for the name, and "https://raw.githubusercontent.com/InfiniteAvenger/jellio-plus/metadata/jellyfin-repo-manifest.json" for the repository url
+2. Click "New Repository" and add "Jellio" for the name, and "https://raw.githubusercontent.com/y0m0/jellio-plus/metadata/jellyfin-repo-manifest.json" for the repository url
 3. Go back to Plugins, and under "All" find and install Jellio
 4. Restart Jellyfin
 5. Jellyfin Dashboard > Plugins > Installed > Jellio and then click "Settings"

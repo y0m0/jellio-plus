@@ -6,6 +6,6 @@ description: |
   This plugin provides integration between Jellyfin and the Jellio service.
   Community-maintained fork with Jellyfin 10.11.x support.
 category: "General"
-owner: "InfiniteAvenger"
+owner: "y0m0"
 artifacts:
   - "Jellyfin.Plugin.Jellio.dll"
